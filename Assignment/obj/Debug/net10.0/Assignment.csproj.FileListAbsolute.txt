@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\IG's Folder\Assignment\bin\Debug\net10.0\Assignment.exe
+C:\Users\ACER\Desktop\IG's Folder\Assignment\bin\Debug\net10.0\Assignment.deps.json
+C:\Users\ACER\Desktop\IG's Folder\Assignment\bin\Debug\net10.0\Assignment.runtimeconfig.json
+C:\Users\ACER\Desktop\IG's Folder\Assignment\bin\Debug\net10.0\Assignment.dll
+C:\Users\ACER\Desktop\IG's Folder\Assignment\bin\Debug\net10.0\Assignment.pdb
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.AssemblyInfo.cs
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.dll
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\refint\Assignment.dll
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.pdb
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\Assignment.genruntimeconfig.cache
+C:\Users\ACER\Desktop\IG's Folder\Assignment\obj\Debug\net10.0\ref\Assignment.dll
