@@ -10,6 +10,7 @@ struct Product
 
 class Program
 {
+    static void Main(){}//FOR PROGRAM TO RUN
     static Product[] products = new Product[100];
     static int counter = 0;
 
